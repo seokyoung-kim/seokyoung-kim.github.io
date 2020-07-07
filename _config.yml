@@ -51,7 +51,7 @@ disqus: True
 disqus_shortname:    SeokyoungKim
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2020. by SeokyoungKim'
+copyright:           'Copyright © Seokyoung Kim 2020'
 
 # Format of the permalinks
 permalink:           pretty
